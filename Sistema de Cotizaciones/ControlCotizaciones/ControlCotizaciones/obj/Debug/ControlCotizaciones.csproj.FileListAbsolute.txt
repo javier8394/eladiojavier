@@ -1,0 +1,135 @@
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe.config
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productos.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\ariel\OneDrive\Documents\Unicah\2020\I Periodo\Desarollo de software\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizacionNueva.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizacionNueva.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productos.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\Repositorio\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizacionNueva.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productos.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe.config
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.pdb
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\luis_\Documents\UNICAH\Diseño de software\Proyecto ICMA\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe.config
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe.config
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizacionNueva.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productos.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Arie Lutz\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe.config
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.reportes.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.producto.resources
+C:\Users\ariel\OneDrive\Escritorio\Copia\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.configuraciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.configuraciones.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.producto.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Proveedores.resources
+C:\Users\ariel\OneDrive\Escritorio\Desarrollo Software\BaseDeDatosICMA\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.clientesBusquedaCodigo.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csprojAssemblyReference.cache
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Clientes.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesBusqueda.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.clientesBusquedaCodigo.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.ClientesMantenimiento.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.configuraciones.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.cotizaciones.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.MenuPrincipal.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.prodcutoMantenimiento.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.producto.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.productoBusqueda.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Properties.Resources.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Proveedores.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.Reportes.resources
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.GenerateResource.cache
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.csproj.CoreCompileInputs.cache
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.exe
+C:\Users\hp1\Pictures\BaseDeDatosICMA-Javier\Sistema de Cotizaciones\ControlCotizaciones\ControlCotizaciones\obj\Debug\ControlCotizaciones.pdb

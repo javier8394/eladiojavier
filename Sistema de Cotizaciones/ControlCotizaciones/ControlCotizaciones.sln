@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlCotizaciones", "ControlCotizaciones\ControlCotizaciones.csproj", "{F76E5153-A402-4383-A7C8-ECA7EAD8EFA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76E5153-A402-4383-A7C8-ECA7EAD8EFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76E5153-A402-4383-A7C8-ECA7EAD8EFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76E5153-A402-4383-A7C8-ECA7EAD8EFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76E5153-A402-4383-A7C8-ECA7EAD8EFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF44F034-8EFE-408E-A846-E0C4C08CFFF0}
+	EndGlobalSection
+EndGlobal
