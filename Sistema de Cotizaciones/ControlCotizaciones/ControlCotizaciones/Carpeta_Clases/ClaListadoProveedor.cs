@@ -15,7 +15,7 @@ namespace ControlCotizaciones.Carpeta_Clases
         private List<ClaProveedor> proveedor;
         private ClaConexion conexion;
         private DataTable tabla;
-        private DateTime fecha;
+       
         public ClaListadoProveedor()
 
 
@@ -23,7 +23,7 @@ namespace ControlCotizaciones.Carpeta_Clases
             proveedor = new List<ClaProveedor>();
             conexion = new ClaConexion();
             tabla = new DataTable();
-            fecha = DateTime.Today;
+            
             Cargar_Datos();
         }
         private void Cargar_Datos()
